@@ -9,7 +9,8 @@ Most frequent Compile-Time errors are:
 
 1-> Missing Parenthesis (})
 2-> Printing the value of variable without declaring it
-3-> Missing semicolon (terminator) */
+3-> Missing semicolon (terminator)
+ */
 
 //============= RUN TIME ERROR ===============//
 /* Runtime Errors:
